@@ -1,0 +1,10 @@
+[
+  {
+    "name": "NoNoMenu",
+    "description": "Removes the in-game menu and moves the quit button to the middle of the screen.",
+    "version": "1.0.0",
+    "author": "zaynethedev",
+    "game_version": "1.0.0",
+    "download_link": "https://raw.githubusercontent.com/zaynethedev/MODLAB-Official-Mod-Repo/main/mods/NoNoMenu.dll"
+  }
+]
