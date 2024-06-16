@@ -6,5 +6,13 @@
     "author": "zaynethedev",
     "game_version": "1.0.0",
     "download_link": "https://raw.githubusercontent.com/zaynethedev/MODLAB-Official-Mod-Repo/main/Mods/NoNoMenu.dll"
+  },
+  {
+    "name": "TinyCrowbar",
+    "description": "hehe tiny crowbar",
+    "version": "1.0.0",
+    "author": "zaynethedev",
+    "game_version": "1.0.0",
+    "download_link": "https://raw.githubusercontent.com/zaynethedev/MODLAB-Official-Mod-Repo/main/Mods/TinyCrowbar.dll"
   }
 ]
