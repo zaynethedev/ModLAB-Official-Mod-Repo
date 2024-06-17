@@ -31,4 +31,13 @@
     "game_version": "1.0.0",
     "download_link": "https://raw.githubusercontent.com/zaynethedev/MODLAB-Official-Mod-Repo/main/Mods/CharlesMod.dll"
   }
+  ,
+    {
+    "name": "BowlingBall",
+    "description": "lets go bowling",
+    "version": "1.0.0",
+    "author": "charles",
+    "game_version": "1.0.0",
+    "download_link": "https://raw.githubusercontent.com/zaynethedev/MODLAB-Official-Mod-Repo/main/Mods/BowlingMod.dll"
+  }
 ]
