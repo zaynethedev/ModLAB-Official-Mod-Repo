@@ -22,5 +22,13 @@
     "author": "zaynethedev",
     "game_version": "1.0.0",
     "download_link": "https://raw.githubusercontent.com/zaynethedev/MODLAB-Official-Mod-Repo/main/Mods/PerformanceMode.dll"
+  },
+    {
+    "name": "CharlesMod",
+    "description": "hehe charle",
+    "version": "1.0.0",
+    "author": "charles",
+    "game_version": "1.0.0",
+    "download_link": "https://raw.githubusercontent.com/zaynethedev/MODLAB-Official-Mod-Repo/main/Mods/CharlesMod.dll"
   }
 ]
