@@ -14,5 +14,13 @@
     "author": "zaynethedev",
     "game_version": "1.0.0",
     "download_link": "https://raw.githubusercontent.com/zaynethedev/MODLAB-Official-Mod-Repo/main/Mods/TinyCrowbar.dll"
+  },
+    {
+    "name": "PerformanceMode",
+    "description": "potato pc mod",
+    "version": "1.0.0",
+    "author": "zaynethedev",
+    "game_version": "1.0.0",
+    "download_link": "https://raw.githubusercontent.com/zaynethedev/MODLAB-Official-Mod-Repo/main/Mods/PerformanceMode.dll"
   }
 ]
